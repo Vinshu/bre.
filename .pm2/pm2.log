@@ -1,0 +1,334 @@
+2019-12-02T16:58:36: PM2 log: ===============================================================================
+2019-12-02T16:58:36: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-12-02T16:58:36: PM2 log: Time                 : Mon Dec 02 2019 16:58:36 GMT+0000 (Coordinated Universal Time)
+2019-12-02T16:58:36: PM2 log: PM2 version          : 4.2.0
+2019-12-02T16:58:36: PM2 log: Node.js version      : 10.17.0
+2019-12-02T16:58:36: PM2 log: Current arch         : x64
+2019-12-02T16:58:36: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2019-12-02T16:58:36: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2019-12-02T16:58:36: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2019-12-02T16:58:36: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2019-12-02T16:58:36: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2019-12-02T16:58:36: PM2 log: Worker Interval      : 30000
+2019-12-02T16:58:36: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2019-12-02T16:58:36: PM2 log: Concurrent actions   : 2
+2019-12-02T16:58:36: PM2 log: SIGTERM timeout      : 1600
+2019-12-02T16:58:36: PM2 log: ===============================================================================
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:36: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:37: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:38: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:39: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] starting in -fork mode-
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] online
+2019-12-02T16:58:40: PM2 log: App [PORT=3001 npm start:0] exited with code [1] via signal [SIGINT]
+2019-12-02T16:58:40: PM2 log: Script /bin/bash had too many unstable restarts (16). Stopped. "errored"
+2019-12-02T16:59:23: PM2 log: Stopping app:PORT=3001 npm start id:0
+2019-12-02T16:59:23: PM2 error: app=PORT=3001 npm start id=0 does not have a pid
+2019-12-02T16:59:47: PM2 log: App [PORT=3001 node index:0] starting in -fork mode-
+2019-12-02T16:59:47: PM2 log: App [PORT=3001 node index:0] online
+2019-12-02T17:01:52: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:52: PM2 log: App [node index:1] online
+2019-12-02T17:01:53: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:53: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:53: PM2 log: App [node index:1] online
+2019-12-02T17:01:54: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:54: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:54: PM2 log: App [node index:1] online
+2019-12-02T17:01:55: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:55: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:55: PM2 log: App [node index:1] online
+2019-12-02T17:01:55: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:55: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:55: PM2 log: App [node index:1] online
+2019-12-02T17:01:56: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:56: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:56: PM2 log: App [node index:1] online
+2019-12-02T17:01:57: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:57: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:57: PM2 log: App [node index:1] online
+2019-12-02T17:01:57: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:57: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:57: PM2 log: App [node index:1] online
+2019-12-02T17:01:58: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:58: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:58: PM2 log: App [node index:1] online
+2019-12-02T17:01:59: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:59: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:59: PM2 log: App [node index:1] online
+2019-12-02T17:01:59: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:01:59: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:01:59: PM2 log: App [node index:1] online
+2019-12-02T17:02:00: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:00: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:00: PM2 log: App [node index:1] online
+2019-12-02T17:02:01: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:01: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:01: PM2 log: App [node index:1] online
+2019-12-02T17:02:02: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:02: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:02: PM2 log: App [node index:1] online
+2019-12-02T17:02:02: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:02: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:02: PM2 log: App [node index:1] online
+2019-12-02T17:02:03: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:03: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:03: PM2 log: App [node index:1] online
+2019-12-02T17:02:04: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:04: PM2 log: Script /bin/bash had too many unstable restarts (16). Stopped. "errored"
+2019-12-02T17:02:34: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:34: PM2 log: App [node index:1] online
+2019-12-02T17:02:34: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:34: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:34: PM2 log: App [node index:1] online
+2019-12-02T17:02:35: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:35: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:35: PM2 log: App [node index:1] online
+2019-12-02T17:02:36: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:36: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:36: PM2 log: App [node index:1] online
+2019-12-02T17:02:36: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:36: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:36: PM2 log: App [node index:1] online
+2019-12-02T17:02:37: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:37: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:37: PM2 log: App [node index:1] online
+2019-12-02T17:02:38: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:38: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:38: PM2 log: App [node index:1] online
+2019-12-02T17:02:38: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:38: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:38: PM2 log: App [node index:1] online
+2019-12-02T17:02:39: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:39: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:39: PM2 log: App [node index:1] online
+2019-12-02T17:02:40: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:40: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:40: PM2 log: App [node index:1] online
+2019-12-02T17:02:41: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:41: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:41: PM2 log: App [node index:1] online
+2019-12-02T17:02:41: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:41: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:41: PM2 log: App [node index:1] online
+2019-12-02T17:02:42: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:42: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:42: PM2 log: App [node index:1] online
+2019-12-02T17:02:43: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:43: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:43: PM2 log: App [node index:1] online
+2019-12-02T17:02:43: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:43: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:43: PM2 log: App [node index:1] online
+2019-12-02T17:02:44: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:44: PM2 log: App [node index:1] starting in -fork mode-
+2019-12-02T17:02:44: PM2 log: App [node index:1] online
+2019-12-02T17:02:45: PM2 log: App [node index:1] exited with code [1] via signal [SIGINT]
+2019-12-02T17:02:45: PM2 log: Script /bin/bash had too many unstable restarts (16). Stopped. "errored"
+2019-12-02T17:03:25: PM2 log: Stopping app:node index id:1
+2019-12-02T17:03:25: PM2 error: app=node index id=1 does not have a pid
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:37: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:37: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:37: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:37: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:37: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:37: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:37: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: App [node inex:2] starting in -fork mode-
+2019-12-02T17:05:38: PM2 log: App [node inex:2] online
+2019-12-02T17:05:38: PM2 log: App [node inex:2] exited with code [1] via signal [SIGINT]
+2019-12-02T17:05:38: PM2 log: Script /bin/bash had too many unstable restarts (16). Stopped. "errored"
+2019-12-02T17:06:03: PM2 log: Stopping app:node inex id:2
+2019-12-02T17:06:03: PM2 error: app=node inex id=2 does not have a pid
+2019-12-02T17:06:10: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:10: PM2 log: App [node index:3] online
+2019-12-02T17:06:10: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:10: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:10: PM2 log: App [node index:3] online
+2019-12-02T17:06:11: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:11: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:11: PM2 log: App [node index:3] online
+2019-12-02T17:06:12: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:12: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:12: PM2 log: App [node index:3] online
+2019-12-02T17:06:12: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:12: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:12: PM2 log: App [node index:3] online
+2019-12-02T17:06:13: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:13: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:13: PM2 log: App [node index:3] online
+2019-12-02T17:06:14: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:14: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:14: PM2 log: App [node index:3] online
+2019-12-02T17:06:15: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:15: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:15: PM2 log: App [node index:3] online
+2019-12-02T17:06:15: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:15: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:15: PM2 log: App [node index:3] online
+2019-12-02T17:06:16: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:16: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:16: PM2 log: App [node index:3] online
+2019-12-02T17:06:17: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:17: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:17: PM2 log: App [node index:3] online
+2019-12-02T17:06:17: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:17: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:17: PM2 log: App [node index:3] online
+2019-12-02T17:06:18: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:18: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:18: PM2 log: App [node index:3] online
+2019-12-02T17:06:19: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:19: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:19: PM2 log: App [node index:3] online
+2019-12-02T17:06:19: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:19: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:19: PM2 log: App [node index:3] online
+2019-12-02T17:06:20: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:20: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:06:20: PM2 log: App [node index:3] online
+2019-12-02T17:06:21: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:06:21: PM2 log: Script /bin/bash had too many unstable restarts (16). Stopped. "errored"
+2019-12-02T17:14:44: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:44: PM2 log: App [node index:3] online
+2019-12-02T17:14:45: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:45: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:45: PM2 log: App [node index:3] online
+2019-12-02T17:14:46: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:46: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:46: PM2 log: App [node index:3] online
+2019-12-02T17:14:47: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:47: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:47: PM2 log: App [node index:3] online
+2019-12-02T17:14:47: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:47: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:47: PM2 log: App [node index:3] online
+2019-12-02T17:14:48: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:48: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:48: PM2 log: App [node index:3] online
+2019-12-02T17:14:49: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:49: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:49: PM2 log: App [node index:3] online
+2019-12-02T17:14:49: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:49: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:49: PM2 log: App [node index:3] online
+2019-12-02T17:14:50: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:50: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:50: PM2 log: App [node index:3] online
+2019-12-02T17:14:51: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:51: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:51: PM2 log: App [node index:3] online
+2019-12-02T17:14:52: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:52: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:52: PM2 log: App [node index:3] online
+2019-12-02T17:14:52: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:52: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:52: PM2 log: App [node index:3] online
+2019-12-02T17:14:53: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:53: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:53: PM2 log: App [node index:3] online
+2019-12-02T17:14:54: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:54: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:54: PM2 log: App [node index:3] online
+2019-12-02T17:14:54: PM2 log: App [node index:3] exited with code [1] via signal [SIGINT]
+2019-12-02T17:14:54: PM2 log: App [node index:3] starting in -fork mode-
+2019-12-02T17:14:54: PM2 log: App [node index:3] online
+2019-12-02T17:14:55: PM2 log: Stopping app:node index id:3
+2019-12-02T17:14:55: PM2 log: App [node index:3] exited with code [0] via signal [SIGINT]
+2019-12-02T17:14:55: PM2 log: pid=32080 msg=process killed
+2019-12-02T17:17:05: PM2 error: God db process id unknown
+2019-12-02T17:17:12: PM2 log: App [node index:4] starting in -fork mode-
+2019-12-02T17:17:12: PM2 log: App [node index:4] online
+2019-12-02T17:18:05: PM2 log: Stopping app:node index id:4
+2019-12-02T17:18:05: PM2 log: App [node index:4] exited with code [0] via signal [SIGINT]
+2019-12-02T17:18:06: PM2 log: pid=32129 msg=process killed
+2019-12-02T17:18:06: PM2 log: App [node index:4] starting in -fork mode-
+2019-12-02T17:18:06: PM2 log: App [node index:4] online
+2019-12-02T17:18:50: PM2 log: Stopping app:node index id:4
+2019-12-02T17:18:50: PM2 log: App [node index:4] exited with code [0] via signal [SIGINT]
+2019-12-02T17:18:50: PM2 log: pid=32167 msg=process killed
+2019-12-02T17:18:57: PM2 log: App [node index:5] starting in -fork mode-
+2019-12-02T17:18:57: PM2 log: App [node index:5] online
+2019-12-02T17:19:11: PM2 log: Stopping app:node index id:5
+2019-12-02T17:19:11: PM2 log: App [node index:5] exited with code [0] via signal [SIGINT]
+2019-12-02T17:19:11: PM2 log: pid=32217 msg=process killed
+2019-12-02T17:19:34: PM2 log: App [DB_USERNAME=saikatharryc DB_PASS=saikat95 node index:6] starting in -fork mode-
+2019-12-02T17:19:34: PM2 log: App [DB_USERNAME=saikatharryc DB_PASS=saikat95 node index:6] online

@@ -1,0 +1,22 @@
+generateAddressesFromXpub( BTC 0
+[genrtdAddress] { path: 'm/0/0',
+  index: 0,
+  publicAddress: 'mk1gCqSjdKzLonKt7gy5dboSsHPkRpEjgt',
+  privateKey: '' }
+[Server] txns server started on: 3000
+Data Base Connected
+[offlineTool-generateAccount] { coin: 'BTC',
+  mnemonicPhrase:
+   'sign attitude tobacco salad tag shiver unique account future trumpet canyon order',
+  accountXpriv:
+   'tprv8gWSUAhb5i7FbuzdUX9PQpt2GRnkTF5Gxkm7XzKuiTHSXnmmLByx2tF9tGEGmnwXLvuD8pXXmZQJBNz4zgbLFjAufJdZd1wMWPhtJNvJJeV',
+  accountXpub:
+   'tpubDDCUcajqE5nvVP2RNAoypEY8qTJgcaGBY4MtpWND8j5qNH2XxaoYDNs24PRtZSEr5MVnE8U7yb33DAoXeaX23nroer2WxXdVgQr8kvV71um',
+  addressDerivationXpub:
+   'tpubDEumRtiiD5RP96ZJuD5n7BYb3CYAE13yEkAVE98jnSTazhp6XfLN2h7qebz7r8xM2CBoPMUTNzeFqMt4iXwJscJFZwv44uHQ19BmaT5jzJw',
+  addresses:
+   { path: 'm/0/0',
+     index: 0,
+     publicAddress: 'mk1gCqSjdKzLonKt7gy5dboSsHPkRpEjgt',
+     privateKey: '' },
+  WIFKEY: 'cVZHVm973aNmytWzUPAnDXMQZqGf2mFHu78Wwc7ULRzeSzuWVL9w' }

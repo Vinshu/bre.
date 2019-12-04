@@ -1,0 +1,27 @@
+generateAddressesFromXpub( BTC 0
+[genrtdAddress] { path: 'm/0/0',
+  index: 0,
+  publicAddress: 'mk1gCqSjdKzLonKt7gy5dboSsHPkRpEjgt',
+  privateKey: '' }
+[Server] txns server started on: 3000
+0
+0
+Error in MongoDB Connection
+generateAddressesFromXpub( BTC 0
+[genrtdAddress] { path: 'm/0/0',
+  index: 0,
+  publicAddress: 'mk1gCqSjdKzLonKt7gy5dboSsHPkRpEjgt',
+  privateKey: '' }
+[Server] txns server started on: 3000
+0
+0
+Error in MongoDB Connection
+generateAddressesFromXpub( BTC 0
+[genrtdAddress] { path: 'm/0/0',
+  index: 0,
+  publicAddress: 'mk1gCqSjdKzLonKt7gy5dboSsHPkRpEjgt',
+  privateKey: '' }
+[Server] txns server started on: 3000
+0
+0
+Error in MongoDB Connection
