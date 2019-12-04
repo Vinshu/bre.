@@ -135,3 +135,7 @@ pm2 logs 5
 pm2 delete 5
 pm2 start "DB_USERNAME=saikatharryc DB_PASS=saikat95 node index.js"
 pm2 logs 6
+ls
+su root
+sudo su
+exit
